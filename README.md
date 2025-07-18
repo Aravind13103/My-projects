@@ -1,6 +1,4 @@
-# My-projects
 # Pneumonia Detection Using Deep Learning 
-
 ## Project Overview
 
 This project aims to develop a **Pneumonia Detection System** by leveraging **Transfer Learning** with pre-trained deep learning models such as **VGG16** and **EfficientNetB0**. It classifies **chest X-ray images** into *Normal* and *Pneumonia* categories. The solution also includes an **interactive GUI** built with **Tkinter**, allowing users to upload chest X-rays and receive automated predictions.
